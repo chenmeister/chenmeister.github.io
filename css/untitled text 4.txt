@@ -1,0 +1,94 @@
+[{ 
+	"bio":[
+		{
+			"title": "Birthday",
+			"rightTitle": "June 13, 1990"
+		},
+		{
+			"title": "Location",
+			"rightTitle": "Rancho Cucamonga, CA"
+		},
+		{
+			"title": "About Me",
+			"bottomTitle": "I am a full-stack web developer. I have also done some work with 
+			mobile development on both Android and iOS. My technical experience consists 
+			of working for many different tech based start-ups and well known companies. 
+			In my free time, I like learn new technologies, watch sports, workout, hike, 
+			going to hackathons, and hang out with friends."
+		}
+	],
+	"experience":[
+		{
+			"title": "Spectoccular Labs, LLC",
+			"rightTitle": "Sept 2013 - Present"
+			"bottomTitle": "Lead Web Developer"
+		}
+	],
+	"education":[
+		{
+			"title": "UC Santa Barbara",
+			"rightTitle": "2008-2012"
+			"bottomTitle": "B.S. Computer Science"
+		}
+	],
+	"projects":[
+		{
+			"title": "Foveology",
+			"rightTitle": "Personal",
+			"bottomTitle": "An interactive portfolio for David Chaum.",
+			"link": "http://www.foveology.com"
+		},
+		{
+			"title": "Test cURL Commands",
+			"rightTitle": "CS 585",
+			"bottomTitle": "Python Scripts testing HTTP URLs.",
+			"link": "https://github.com/chenmeister/cs585-course-project-chensean"
+		},
+		{
+			"title": "commutr",
+			"rightTitle": "HackSC",
+			"bottomTitle": "An iOS app that gives options for commuters.",
+			"link": "http://challengepost.com/software/commutr"
+		},
+		{
+			"title": "Sobriety",
+			"rightTitle": "Hack The North",
+			"bottomTitle": "An Android app providing safe alternatives for the intoxicated.",
+			"link": "http://challengepost.com/software/commutr"
+		},
+		{
+			"title": "HiddenList",
+			"rightTitle": "Hack UCI",
+			"bottomTitle": "A web app where the user can create a list by naming it with a unique title.",
+			"link": "http://challengepost.com/software/commutr"
+		},
+		{
+			"title": "PolyRideshare",
+			"rightTitle": "Hack Poly",
+			"bottomTitle": "Carpool services for Cal Poly Pomona Students.",
+			"link": "http://challengepost.com/software/commutr"
+		}
+	],
+	"contact":[
+		{
+			"title": "Phone",
+			"rightTitle": "(909) 510-0168"
+		},
+		{
+			"title": "Email",
+			"rightTitle": "sean.chen909@gmail.com"
+		},
+		{
+			"title": "Twitter",
+			"rightTitle": "@dachenmeister"
+		},
+		{
+			"title": "Instagram",
+			"rightTitle": "@dechenmeister"
+		},
+		{
+			"title": "Github",
+			"rightTitle": "chenmeister"
+		}	
+	]
+}]
