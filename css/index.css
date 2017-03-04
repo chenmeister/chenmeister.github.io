@@ -5,13 +5,13 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	height: 100%; 
+	height: 100%;
 	width: 100%;
 }
 
 h2 { text-align: center; }
 
-.background-tan { 
+.background-tan {
 	background-color: #F3EFE0;
 }
 
@@ -33,16 +33,16 @@ hr {
 #landing {
 	background: url('../images/background.JPG') no-repeat center center fixed;
 
-	-webkit-background-size: 100%; 
-  -moz-background-size: 100%; 
-  -o-background-size: 100%; 
-  background-size: 100%; 
-	
+	-webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	
+
 	height: 100%;
 }
 
@@ -55,14 +55,14 @@ hr {
 }
 
 .jumbotron .container > * {
- 	text-align: center; 
- 	color: #FFFFFF; 
+ 	text-align: center;
+ 	color: #FFFFFF;
 }
 
-.jumbotron .container h1 { 
-	padding-bottom: 10px; 
-	border-bottom: 2px solid #FFFFFF; 
-	border-bottom-color: rgba(255,255,255,0.35); 
+.jumbotron .container h1 {
+	padding-bottom: 10px;
+	border-bottom: 2px solid #FFFFFF;
+	border-bottom-color: rgba(255,255,255,0.35);
 	display: inline-block;
 }
 
@@ -108,7 +108,6 @@ hr {
 	opacity: 1;
 }
 @media (max-width: 767px) { 
-
 	.container { padding: 60px 20px; min-width: 280px; }
 	.jumbotron .container { top: 20%; }
 }
