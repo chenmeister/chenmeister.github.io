@@ -82,7 +82,7 @@ hr {
 
 #bio img {
 	width: 180px;
-	height: 180px;
+	height: 235px;
 	margin: 15px auto;
 	display: block;
 	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
@@ -107,7 +107,7 @@ hr {
 	color: #ffffff;
 	opacity: 1;
 }
-@media (max-width: 767px) { 
+@media (max-width: 767px) {
 	.container { padding: 60px 20px; min-width: 280px; }
 	.jumbotron .container { top: 20%; }
 }
