@@ -25,8 +25,8 @@ h2 { text-align: center; }
 
 hr {
 	margin: 40px 0px;
-  border-color: #a9a9a9;
-  opacity: 0.8;
+	border-color: #a9a9a9;
+	opacity: 0.8;
 }
 
 /* Landing Page CSS*/
@@ -34,9 +34,9 @@ hr {
 	background: url('../images/background.JPG') no-repeat center center fixed;
 
 	-webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
-  background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -90,7 +90,6 @@ hr {
 	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
-
 #contact > * {
 	color: #ffffff;
 }
@@ -107,6 +106,7 @@ hr {
 	color: #ffffff;
 	opacity: 1;
 }
+
 @media (max-width: 767px) {
 	.container { padding: 60px 20px; min-width: 280px; }
 	.jumbotron .container { top: 20%; }
